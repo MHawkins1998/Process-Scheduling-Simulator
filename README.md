@@ -12,7 +12,7 @@ This project simulates CPU scheduling algorithms to analyze how different strate
 
 ## Project Files
 - Full implementation and code can be found in the PDF report included in this repository.
-- [View Full Project Report](./Process-Scheduling-Simulator-Report.PDF)
+- [View Full Project Report](./CPU_Scheduling_Simulator_Report.pdf)
 
 ## Features
 - Calculates:
