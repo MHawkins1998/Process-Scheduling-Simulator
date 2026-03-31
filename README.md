@@ -19,12 +19,12 @@ This project simulates CPU scheduling algorithms to analyze how different strate
     - Waiting Time
     - Turnaround Time
     - Response Time
-- Compares performance across scheduling methods
+- Compares algorithm performance under different scheduling strategies
 
 ## Technologies
 - Python
 
 ## What I Learned
-- How scheduling algorithms affect system performance
-- How to structure logic-heavy programs
-- How to simulate real-world operating system behavior
+- How different scheduling algorithms impact system performance
+- How to design and implement logic-heavy algorithms
+- How to model and simulate real-world operating system behavior
